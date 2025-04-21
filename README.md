@@ -14,4 +14,4 @@
 
 ## 欢迎访问我的网站 https://chaichai438.github.io/
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaichai438&layout=compact&theme=radical)
