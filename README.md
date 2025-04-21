@@ -13,3 +13,5 @@
 - **我使用的工具**：Cion, VS Code, Cursor, VS2022
 
 ## 欢迎访问我的网站 https://chaichai438.github.io/
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
